@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloParcialNoche", "ModeloParcialNoche\ModeloParcialNoche.csproj", "{0E0FC24B-867B-4757-825E-F7C3D70A460D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaConsola", "VistaConsola\VistaConsola.csproj", "{DE78D18B-CAE6-48E2-8529-B576F5D7071C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E0FC24B-867B-4757-825E-F7C3D70A460D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0FC24B-867B-4757-825E-F7C3D70A460D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0FC24B-867B-4757-825E-F7C3D70A460D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0FC24B-867B-4757-825E-F7C3D70A460D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE78D18B-CAE6-48E2-8529-B576F5D7071C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE78D18B-CAE6-48E2-8529-B576F5D7071C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE78D18B-CAE6-48E2-8529-B576F5D7071C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE78D18B-CAE6-48E2-8529-B576F5D7071C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9B62CD-695E-47BB-AEF7-28E4B9FFD0A2}
+	EndGlobalSection
+EndGlobal

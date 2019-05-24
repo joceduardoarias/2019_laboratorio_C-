@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.AutoF1">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAgAAAAAiA=</HashCode>
+      <FileName>AutoF1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Competencia">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIBgAwAEYAAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Competencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.CompetenciaNoDisponibleException">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAAAEAAAQAAAAEAAAAAAA=</HashCode>
+      <FileName>CompetenciaNoDisponibleException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.MotoCross">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>MotoCross.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.VehiculoDeCarrera">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAABAAAAAAAAAAEAQEEEAEBBBiA=</HashCode>
+      <FileName>VehiculoDeCarrera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ETipoCompetencia">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAAAA=</HashCode>
+      <FileName>ETipoCompetencia.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
