@@ -1,0 +1,11 @@
+D:\VisualStudio\FrmTest\FrmTest\bin\Debug\FrmTest.exe.config
+D:\VisualStudio\FrmTest\FrmTest\bin\Debug\FrmTest.exe
+D:\VisualStudio\FrmTest\FrmTest\bin\Debug\FrmTest.pdb
+D:\VisualStudio\FrmTest\FrmTest\obj\Debug\FrmTest.csprojAssemblyReference.cache
+D:\VisualStudio\FrmTest\FrmTest\obj\Debug\FrmTest.Form1.resources
+D:\VisualStudio\FrmTest\FrmTest\obj\Debug\FrmTest.Properties.Resources.resources
+D:\VisualStudio\FrmTest\FrmTest\obj\Debug\FrmTest.csproj.GenerateResource.cache
+D:\VisualStudio\FrmTest\FrmTest\obj\Debug\FrmTest.csproj.CoreCompileInputs.cache
+D:\VisualStudio\FrmTest\FrmTest\obj\Debug\FrmTest.exe
+D:\VisualStudio\FrmTest\FrmTest\obj\Debug\FrmTest.pdb
+D:\VisualStudio\FrmTest\FrmTest\obj\Debug\FrmTest.FormTest2.resources
