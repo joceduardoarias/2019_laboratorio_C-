@@ -1,0 +1,6 @@
+D:\VisualStudio\EntidadesLast\EntidadesLast\bin\Debug\EntidadesLast.dll
+D:\VisualStudio\EntidadesLast\EntidadesLast\bin\Debug\EntidadesLast.pdb
+D:\VisualStudio\EntidadesLast\EntidadesLast\obj\Debug\EntidadesLast.csprojAssemblyReference.cache
+D:\VisualStudio\EntidadesLast\EntidadesLast\obj\Debug\EntidadesLast.csproj.CoreCompileInputs.cache
+D:\VisualStudio\EntidadesLast\EntidadesLast\obj\Debug\EntidadesLast.dll
+D:\VisualStudio\EntidadesLast\EntidadesLast\obj\Debug\EntidadesLast.pdb

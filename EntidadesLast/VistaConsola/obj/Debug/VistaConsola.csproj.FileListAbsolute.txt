@@ -1,0 +1,10 @@
+D:\VisualStudio\EntidadesLast\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\VisualStudio\EntidadesLast\VistaConsola\bin\Debug\VistaConsola.exe
+D:\VisualStudio\EntidadesLast\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\VisualStudio\EntidadesLast\VistaConsola\bin\Debug\EntidadesLast.dll
+D:\VisualStudio\EntidadesLast\VistaConsola\bin\Debug\EntidadesLast.pdb
+D:\VisualStudio\EntidadesLast\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\VisualStudio\EntidadesLast\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\VisualStudio\EntidadesLast\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\VisualStudio\EntidadesLast\VistaConsola\obj\Debug\VistaConsola.exe
+D:\VisualStudio\EntidadesLast\VistaConsola\obj\Debug\VistaConsola.pdb

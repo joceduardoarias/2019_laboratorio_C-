@@ -1,0 +1,8 @@
+D:\Doval.Gaston.2A.SegundoParcial\Doval.Gaston.2A.SegundoParcial\bin\Debug\Doval.Gaston.2A.SegundoParcial.exe.config
+D:\Doval.Gaston.2A.SegundoParcial\Doval.Gaston.2A.SegundoParcial\bin\Debug\Doval.Gaston.2A.SegundoParcial.exe
+D:\Doval.Gaston.2A.SegundoParcial\Doval.Gaston.2A.SegundoParcial\bin\Debug\Doval.Gaston.2A.SegundoParcial.pdb
+D:\Doval.Gaston.2A.SegundoParcial\Doval.Gaston.2A.SegundoParcial\bin\Debug\Entidades.dll
+D:\Doval.Gaston.2A.SegundoParcial\Doval.Gaston.2A.SegundoParcial\bin\Debug\Entidades.pdb
+D:\Doval.Gaston.2A.SegundoParcial\Doval.Gaston.2A.SegundoParcial\obj\Debug\Doval.Gaston.2A.SegundoParcial.csprojResolveAssemblyReference.cache
+D:\Doval.Gaston.2A.SegundoParcial\Doval.Gaston.2A.SegundoParcial\obj\Debug\Doval.Gaston.2A.SegundoParcial.exe
+D:\Doval.Gaston.2A.SegundoParcial\Doval.Gaston.2A.SegundoParcial\obj\Debug\Doval.Gaston.2A.SegundoParcial.pdb

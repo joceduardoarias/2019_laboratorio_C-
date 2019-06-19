@@ -1,0 +1,13 @@
+D:\VisualStudio\EntidadesLast\Frm\bin\Debug\Frm.exe.config
+D:\VisualStudio\EntidadesLast\Frm\bin\Debug\Frm.exe
+D:\VisualStudio\EntidadesLast\Frm\bin\Debug\Frm.pdb
+D:\VisualStudio\EntidadesLast\Frm\bin\Debug\EntidadesLast.dll
+D:\VisualStudio\EntidadesLast\Frm\bin\Debug\EntidadesLast.pdb
+D:\VisualStudio\EntidadesLast\Frm\obj\Debug\Frm.csprojAssemblyReference.cache
+D:\VisualStudio\EntidadesLast\Frm\obj\Debug\Frm.Form1.resources
+D:\VisualStudio\EntidadesLast\Frm\obj\Debug\Frm.Properties.Resources.resources
+D:\VisualStudio\EntidadesLast\Frm\obj\Debug\Frm.csproj.GenerateResource.cache
+D:\VisualStudio\EntidadesLast\Frm\obj\Debug\Frm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\EntidadesLast\Frm\obj\Debug\Frm.csproj.CopyComplete
+D:\VisualStudio\EntidadesLast\Frm\obj\Debug\Frm.exe
+D:\VisualStudio\EntidadesLast\Frm\obj\Debug\Frm.pdb

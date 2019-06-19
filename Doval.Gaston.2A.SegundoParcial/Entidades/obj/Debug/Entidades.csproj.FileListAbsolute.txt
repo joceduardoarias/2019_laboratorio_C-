@@ -1,0 +1,5 @@
+D:\Doval.Gaston.2A.SegundoParcial\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Doval.Gaston.2A.SegundoParcial\Entidades\bin\Debug\Entidades.dll
+D:\Doval.Gaston.2A.SegundoParcial\Entidades\bin\Debug\Entidades.pdb
+D:\Doval.Gaston.2A.SegundoParcial\Entidades\obj\Debug\Entidades.dll
+D:\Doval.Gaston.2A.SegundoParcial\Entidades\obj\Debug\Entidades.pdb
